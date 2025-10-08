@@ -52,6 +52,7 @@ plt.title('Decoded Bits')
 plt.tight_layout()
 plt.show()
 ```
+
 ## FSK
 ```python
 import numpy as np
